@@ -29,3 +29,8 @@ const facts = [
    var array = [] 
    do { newArray.push(`I love the Beatles!`)
  }
+ n++;}
+ while (number < 15); //(that number subracted from 15 will be the output number of times the string is logged); 
+
+//   return newArray; // this needs to be outside the loop, otherwise only first item will be returned
+// } //end of function
