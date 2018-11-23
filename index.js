@@ -28,6 +28,6 @@ const facts = [
  function IloveTheBeatles(n){
    var array = [] 
    do { array.push(`I love the Beatles!`),
-  n++; } while (number < 15); 
+  n++; } while (n < 15); 
 return array;
 }
