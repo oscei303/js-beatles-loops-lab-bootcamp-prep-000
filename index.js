@@ -26,5 +26,6 @@ const facts = [
    return result; 
  }
  function IloveTheBeatles(n){
-   var array = []
+   var array = [] 
+   do { newArray.push(`I love the Beatles!`)
  }
