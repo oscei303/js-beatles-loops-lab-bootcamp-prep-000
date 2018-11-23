@@ -20,7 +20,7 @@ const facts = [
  var result = []; 
  var i = 0; 
   while(i < array.length) {
-     result.push(arr[i] + '!!!')
+     result.push(array[i] + '!!!')
      i++; 
    }
    return result; 
