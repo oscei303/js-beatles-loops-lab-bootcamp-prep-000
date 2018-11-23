@@ -25,3 +25,6 @@ const facts = [
    }
    return result; 
  }
+ function IloveTheBeatles(n){
+   var array = []
+ }
